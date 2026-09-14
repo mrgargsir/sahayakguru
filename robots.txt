@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mrgargsir.github.io/sahayakguru/sitemap.xml
+Sitemap: https://sahayakguru.store/sitemap.xml
